@@ -1,5 +1,5 @@
 # chainer-object-detection
-Google Colaboratory上で物体検出(バウンディングボックスとクラスラベルを付与)できます。
+Google Colaboratory上で独自データセットを用いた物体検出(バウンディングボックスとクラスラベルを付与)できます。
 
 自分のPCにGPUが無いためcolabで実行しましたが、本ソースコードをコピペしてローカル環境でも実行できます。
 
